@@ -4,7 +4,6 @@ import time
 # Path to the image you want to locate
 image_path = 'copy1.png'
 
-
 # Loop for the specified number of iterations
 while True:
     # Locate the image on the screen
